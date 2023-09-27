@@ -1,0 +1,56 @@
+{
+  "producto": [
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://i.postimg.cc/HspbSwRZ/taza-trupper.png",
+      "price": "60.00",
+      "id": 1,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": ""
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://i.postimg.cc/NM5XCBbj/mini-darth.png",
+      "price": "70.00",
+      "id": 2,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": ""
+    },
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://i.postimg.cc/c46z7nfp/grogu-exposito.png",
+      "price": "100.00",
+      "description": "Grogu",
+      "id": 4
+      
+    },
+    {
+      "name": "Trupper",
+      "imageUrl": "https://i.postimg.cc/44YMVc6r/trupper.png",
+      "price": "50",
+      "id": 6,
+      "description": "poster trupper"
+    },
+    {
+      "name": "Darth",
+      "imageUrl": "https://i.postimg.cc/D0GBDq50/darth.png",
+      "price": "200",
+      "id": 7,
+      "description": "Funko Flash"
+    },
+
+    {
+      "name": "Producto XYZ",
+      "imageUrl": "https://i.postimg.cc/Bv1L2Mvj/yoda.png",
+      "price": "60.00",
+      "id": 21,
+      "alt": "Product",
+      "section": "Star wars",
+      "description": ""
+    }
+    
+    
+  ]
+}
